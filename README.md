@@ -35,8 +35,7 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 
 
 ## Support Developer
-1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
-2. Add a Star 🌟  to this 👆 Repository
+Add a Star 🌟  to this 👆 Repository
 
 
 ## How to Install and Run this project?
@@ -144,6 +143,12 @@ Password: staff
 *For Student*
 Email: student@gmail.com
 Password: student
+
+## Author
+
+- [@qubati](https://www.github.com/qubati2)
+- Group: ISSa-19-7.
+
 
 
 
