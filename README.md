@@ -2,7 +2,7 @@
 AUES Student Management System Developed for laboratory works №9 Purpose using Python (Django).
 Feel free to make changes based on your requirements.
 
-I've created this project while learnging Django and followed tutorial series from **SuperCoders**
+I've created this project while learnging Django and followed tutorial series from **Youtube & Books**
 
 And if you like this project then ADD a STAR ⭐️  to this project 👆
 
