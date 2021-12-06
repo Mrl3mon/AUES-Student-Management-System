@@ -33,11 +33,6 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 4. Apply for Leave
 5. Send Feedback to HOD
 
-
-## Support Developer
-Add a Star 🌟  to this 👆 Repository
-
-
 ## How to Install and Run this project?
 
 ### Pre-Requisites:
